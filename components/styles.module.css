@@ -161,6 +161,9 @@
   background: transparent;
   transition: all 250ms ease-out;
 }
+.githubCorner{
+  display: none !important;
+}
 
 .pageActions a:last-of-type {
   margin-right: 0;

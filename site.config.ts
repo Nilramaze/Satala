@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Round Rising Blog',
+  name: 'Round Rising Kolumne',
   domain: 'blog.roundrising.de',
   author: 'Mascha Satala',
 
@@ -17,10 +17,9 @@ export default siteConfig({
   description: 'Kolumne zu Zeitbewusstsein, Wissentheorie, Gesundheit & Astrologie',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  // github: 'transitive-bullshit',
-
-  // linkedin: 'fisch2',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
